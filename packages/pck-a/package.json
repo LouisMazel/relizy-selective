@@ -1,0 +1,9 @@
+{
+  "name": "pck-a",
+  "version": "0.0.0",
+  "description": "Test independent mode",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js"
+}

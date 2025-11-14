@@ -1,0 +1,12 @@
+{
+  "name": "pck-b",
+  "version": "0.0.0",
+  "description": "Test independent mode",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "pck-a": "workspace:*"
+  }
+}

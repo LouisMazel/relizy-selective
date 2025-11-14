@@ -1,0 +1,19 @@
+{
+  "name": "selective",
+  "version": "0.0.0",
+  "description": "Test selective mode",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "relizy": "relizy",
+    "relizy:release": "relizy release --no-clean",
+    "relizy:alpha": "relizy release --prerelease --tag alpha --preid alpha --no-clean",
+    "relizy:beta": "relizy release --prerelease --tag beta --preid beta --no-clean",
+    "relizy:rc": "relizy release --prerelease --tag rc --preid rc --no-clean"
+  },
+  "devDependencies": {
+    "relizy": "./../../relizy"
+  }
+}

@@ -1,0 +1,27 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      relizy:
+        specifier: ./../../relizy
+        version: link:../../relizy
+
+  packages/pck-a: {}
+
+  packages/pck-b:
+    dependencies:
+      pck-a:
+        specifier: workspace:*
+        version: link:../pck-a
+
+  packages/pck-c:
+    dependencies:
+      pck-b:
+        specifier: workspace:*
+        version: link:../pck-b
