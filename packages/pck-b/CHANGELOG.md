@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.0.1...v0.1.0-beta.0
+
+[compare changes](https://github.com/LouisMazel/relizy-selective/compare/v0.0.1...v0.1.0-beta.0)
+
+### 🚀 Features
+
+- Modify package b ([1b4dfed](https://github.com/LouisMazel/relizy-selective/commit/1b4dfed))
+
+### ❤️ Contributors
+
+- LouisMazel ([@LouisMazel](https://github.com/LouisMazel))
+
+
 ## v0.0.0...v0.0.1
 
 [compare changes](https://github.com/LouisMazel/relizy-selective/compare/d191ffb0d426de77636b5a712d448ea08a9aa52e...v0.0.1)
