@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.2.0...v0.3.0
+
+[compare changes](https://github.com/LouisMazel/relizy-selective/compare/v0.2.0...v0.3.0)
+
+### 🚀 Features
+
+- Modify package C ([7672339](https://github.com/LouisMazel/relizy-selective/commit/7672339))
+
+### ❤️ Contributors
+
+- LouisMazel ([@LouisMazel](https://github.com/LouisMazel))
+
+
 ## v0.1.0...v0.2.0
 
 [compare changes](https://github.com/LouisMazel/relizy-selective/compare/v0.1.0...v0.2.0)
