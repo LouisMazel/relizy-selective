@@ -1,3 +1,3 @@
 export function packageA() {
-  return 'package A'
+  return 'package A1'
 }
