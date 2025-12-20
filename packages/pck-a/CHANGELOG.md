@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.8.0...v0.8.1
+
+[compare changes](https://github.com/LouisMazel/relizy-selective/compare/v0.8.0...v0.8.1)
+
+### 🩹 Fixes
+
+- **pck-a:** Modify ([8d3636f](https://github.com/LouisMazel/relizy-selective/commit/8d3636f))
+
+### ❤️ Contributors
+
+- LouisMazel ([@LouisMazel](https://github.com/LouisMazel))
+
+
 ## v0.8.0...v0.8.1-beta.0
 
 [compare changes](https://github.com/LouisMazel/relizy-selective/compare/v0.8.0...v0.8.1-beta.0)

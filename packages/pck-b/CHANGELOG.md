@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.8.0...v0.8.1
+
+[compare changes](https://github.com/LouisMazel/relizy-selective/compare/v0.8.0...v0.8.1)
+
+No relevant changes for this release
+
+
 ## v0.8.0...v0.8.1-beta.0
 
 [compare changes](https://github.com/LouisMazel/relizy-selective/compare/v0.8.0...v0.8.1-beta.0)
