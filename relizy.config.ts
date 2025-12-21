@@ -1,7 +1,6 @@
 import { defineConfig } from 'relizy'
 
 export default defineConfig({
-  cwd: './',
   types: {
     feat: { title: '🚀 Features', semver: 'minor' },
     perf: { title: '🔥 Performance', semver: 'patch' },
