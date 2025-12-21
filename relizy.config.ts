@@ -22,7 +22,12 @@ export default defineConfig({
     packages: ['./packages/*'],
   },
 
+  publish: {
+    token: process.env.RELIZY_NPM_TOKEN_OTP,
+    safetyCheck: true,
+  },
+
   release: {
-    publish: false,
+    publish: true,
   },
 })
