@@ -22,11 +22,21 @@ export default defineConfig({
   },
 
   publish: {
-    token: process.env.RELIZY_NPM_TOKEN_OTP,
     safetyCheck: true,
   },
 
   release: {
-    publish: true,
+    publish: false,
+    commit: false,
+    gitTag: false,
+    push: false,
+    social: true,
   },
+
+  social: {
+    changelogUrl: 'https://github.com/LouisMazel/relizy/releases',
+    twitter: {
+      enabled: true,
+    },
+  }
 })
